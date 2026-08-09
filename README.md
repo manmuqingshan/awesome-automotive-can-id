@@ -172,7 +172,7 @@ Links for general DB and uther useful resources:
 
 * [Hyundai](https://github.com/joshpatten/HyundaiCan) - Genesis 5.0 2015.
 * [Hyundai](https://github.com/Esprit1st/Hyundai-Ioniq-5-Torque-Pro-PIDs) - Ioniq 5.
-* [Hyundai](https://philipkocanda.github.io/canair/profiles/ioniq-2017) Ioniq AE Electric 2017.
+* [Hyundai](https://philipkocanda.github.io/canair/profiles/ioniq-2017) - Ioniq AE Electric 2017.
 * [Hyundai](https://www.drive2.ru/b/522073135831319435/) - Solaris 2013 (RU).
 * [Hyundai](https://opengk.org/index.php?title=SIMK43_CAN_Bus) - Tiburon/Coupe.
 * [Hyundai](https://github.com/tylerwatt12/VelosterCANBus) - Veloster 2016.
